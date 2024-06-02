@@ -1,2 +1,2 @@
 # AgroRent
-Welcome to Farming Equipment rent service
+Online Rental Farming Equipment Service Provider
